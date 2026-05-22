@@ -1,2 +1,2 @@
 # test-text
-test random things using text
+To test random things using text.
