@@ -1,4 +1,11 @@
+1. Git and GitHub
 This text file is for learning how to commit file into main branch.
 This line is for learning how to edit file.
 The test-pull-request branch is merged into main branch.
 This line is for testing another commit.
+This line is for testing another commit after the pull request.
+This line is for testing another commit after the pull request.
+This line is for testing another commit after the pull request.
+
+1.1. Merge Conflict
+This subsection is for testing how to resolve merge conflict.
